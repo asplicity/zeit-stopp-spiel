@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("zeit-stopp-spiel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+676a6fe1215f09cba1dba35bb4b4faf4adeac43a")]
 [assembly: System.Reflection.AssemblyProductAttribute("zeit-stopp-spiel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("zeit-stopp-spiel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
