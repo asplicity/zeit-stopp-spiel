@@ -1,0 +1,14 @@
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\bin\Debug\net8.0\zeit-stopp-spiel.exe
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\bin\Debug\net8.0\zeit-stopp-spiel.deps.json
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\bin\Debug\net8.0\zeit-stopp-spiel.runtimeconfig.json
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\bin\Debug\net8.0\zeit-stopp-spiel.dll
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\bin\Debug\net8.0\zeit-stopp-spiel.pdb
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.AssemblyInfoInputs.cache
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.AssemblyInfo.cs
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.csproj.CoreCompileInputs.cache
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.dll
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\refint\zeit-stopp-spiel.dll
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.pdb
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.genruntimeconfig.cache
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\ref\zeit-stopp-spiel.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zeit-stopp-spiel", "zeit-stopp-spiel.csproj", "{08DFF18A-B5F1-421D-90E1-098E73453192}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DFF18A-B5F1-421D-90E1-098E73453192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DFF18A-B5F1-421D-90E1-098E73453192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DFF18A-B5F1-421D-90E1-098E73453192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DFF18A-B5F1-421D-90E1-098E73453192}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D4CED27-E28A-4577-88C3-1ED9D2882F81}
+	EndGlobalSection
+EndGlobal
