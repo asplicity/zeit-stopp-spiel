@@ -12,3 +12,4 @@ C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\refint\zeit-stopp-s
 C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.pdb
 C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.genruntimeconfig.cache
 C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\ref\zeit-stopp-spiel.dll
+C:\Users\ticob\OneDrive\cs\zeit-stopp-spiel\obj\Debug\net8.0\zeit-stopp-spiel.sourcelink.json

@@ -8,6 +8,6 @@
         Console.ReadKey();
         var end = DateTime.Now;
         var time = end - start;
-        Console.WriteLine($"\nDu brauchtest {time.TotalSeconds} Sekunden");
+        Console.WriteLine($"\nDu brauchtest {time.TotalMilliseconds} millisekunden");
     }
 }
